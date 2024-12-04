@@ -154,3 +154,5 @@ dist
 .pnp.*
 
 .vercel
+
+.env
